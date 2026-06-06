@@ -81,9 +81,7 @@ I'm an AI/ML enthusiast building production-ready systems that combine LLMs, RAG
 | **DevOps** | Docker, Kubernetes, GitHub Actions |
 | **Databases** | ChromaDB, FAISS, PostgreSQL |
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aikaksh-Singh-Routela&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=Aikaksh-Singh-Routela&color=blue&style=flat-square)
 
 ## 🔗 Connect With Me
 
